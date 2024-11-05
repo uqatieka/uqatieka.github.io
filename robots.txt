@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqatieka.github.io/RTu/sitemap_index.txt
+Sitemap: https://uqatieka.github.io/bAX/sitemap_index.txt
+Sitemap: https://uqatieka.github.io/fRm/sitemap_index.txt
+Sitemap: https://uqatieka.github.io/iAf/sitemap_index.txt
